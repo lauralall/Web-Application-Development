@@ -1,2 +1,2 @@
 # Web-Application-Development
-Assignments for Web Application Development class
+Web Application Development class
